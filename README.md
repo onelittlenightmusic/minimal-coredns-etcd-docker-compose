@@ -36,7 +36,7 @@ host.example.com.       60      IN      A       1.1.1.1
 ;; MSG SIZE  rcvd: 77
 ```
 
-## Description
+## Contents
 
 | Contents | Description |
 |---|---|
