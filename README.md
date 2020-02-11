@@ -1,4 +1,4 @@
-# Minimal docker-compose file to run CoreDNS
+# Minimal docker-compose file to run CoreDNS and etcd
 
 ## TL;DR
 
@@ -40,7 +40,7 @@ host.example.com.       60      IN      A       1.1.1.1
 
 | Contents | Description |
 |---|---|
-| Corefile | Configuration file for CoreDNS |
+| Corefile | Configuration file for CoreDNS and etcd |
 | docker-compose.yaml | docker-compose file for easy startup |
 
 ## Reference
