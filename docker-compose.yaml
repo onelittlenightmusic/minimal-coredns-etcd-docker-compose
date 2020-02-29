@@ -1,7 +1,6 @@
 version: '3'
 services:
   coredns:
-    build: .
     ports:
       - "53:53/udp"
     image: coredns/coredns:latest
